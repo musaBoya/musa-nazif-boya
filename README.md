@@ -4,7 +4,6 @@
 <p align="center">
   <a href="mailto:musaboyas@gmail.com"><img src="https://img.shields.io/badge/Email-musaboyas%40gmail.com-blue?style=flat-square&logo=gmail"/></a>
   <a href="https://www.linkedin.com/in/musa-nazif-boya-2a23a1173/"><img src="https://img.shields.io/badge/LinkedIn-Musa%20Nazif%20Boya-0077B5?style=flat-square&logo=linkedin"/></a>
-  <img src="https://img.shields.io/badge/Phone-%2B90%20539%20814%2012%2030-green?style=flat-square&logo=whatsapp"/>
 </p>
 
 ---
@@ -49,14 +48,14 @@ Result-oriented Software Engineer with **4+ years of experience** specializing i
 `Dec 2022 – Present`
 
 #### 📌 OpenHarmony ArkTS Compiler Project *(Jan 2025 – Present)*
-- Contributing to open-source **ArkTS compiler** and runtime components for the OpenHarmony OS ecosystem
+- Contributing to the open-source **ArkTS compiler** and runtime components for the OpenHarmony OS ecosystem
 - Developing low-level system components to optimize compiler performance and runtime execution stability
 - Focusing on system-level media capabilities and library integration using **C++ and Clang**
 
 #### 📌 Cloud OTT Media Services *(13 Months)*
 - Designed and implemented **microservices** for a large-scale media streaming platform using **C++17** and **Docker**
 - Engineered low-latency streaming solutions supporting **SRT, RTMP, HLS, and DASH** via Nginx and FFmpeg
-- Built **"Hperf"** — an internal performance testing tool that simulates mass client behavior to analyze stream stability and latency
+- Built an internal performance benchmarking tool that simulates mass client behavior to analyze stream stability and latency
 - Integrated **RESTful APIs** for seamless communication between microservices and external platforms
 
 #### 📌 WebLMT — Web-Based Local Maintenance Terminal *(11 Months)*
